@@ -1,4 +1,4 @@
-# `libpel` - Para Extension Library
+# `libpextl` - Para Extension Library
 
 [![Open Para issues](https://img.shields.io/github/issues/Para-Lang/Para)](https://github.com/Para-Lang/Para/issues)
 
